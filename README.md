@@ -139,7 +139,7 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 </p>
 
 <p align="center">
-  <em>The GitHub statistics card above displays repository stars and contribution metrics. The repository badge tracks your public repository count automatically.</em>
+  <em>The GitHub statistics card above displays repository stars and contribution metrics.</em>
 </p>
 
 ---
