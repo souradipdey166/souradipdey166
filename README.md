@@ -173,15 +173,19 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="souradipdey166@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:souradipdey166@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souradip" />
   </a>
   <a href="https://www.linkedin.com/in/soura01">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://github.com/souradipdey166">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+</p>
+
+<p align="center">
+  <em>🚀 Always open to learning, collaboration, and building impactful AI solutions.</em>
 </p>
 
 <p align="center">
