@@ -152,16 +152,23 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 
 ---
 
-📈 Contribution Activity & Commit Graph
+## 📈 Contribution Activity & Commit Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souradipdey166&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity and commit graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souradipdey166&theme=tokyonight"
+    alt="Souradip Dey's GitHub contribution activity summary"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <em>Keep building, keep learning, and let the contributions grow! 🚀</em>
+  <em>🚀 Keep building. Keep learning. Keep contributing.</em>
 </p>
+
 ---
+
+
 
 ## 🤝 Let's Connect
 
