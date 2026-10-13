@@ -173,7 +173,7 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:souradipdey166@gmail.com">
+  <a href="souradipdey166@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/soura01">
