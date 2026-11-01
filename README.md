@@ -124,23 +124,23 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 
 
 
-<h2 align="center">📊 GitHub Analytics & Developer Metrics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>A snapshot of my GitHub presence, repository activity, and programming language distribution.</i>
+  <i>GitHub activity, repository insights, and language distribution.</i>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Developer Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Programming Language Distribution" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=PROFILE%20VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Visitors" />
-  <img src="https://img.shields.io/github/followers/souradipdey166?label=FOLLOWERS&style=for-the-badge&color=8957E5&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/souradipdey166?label=TOTAL%20STARS&style=for-the-badge&color=E3B341&logo=github" alt="Total GitHub Stars" />
-</p>
+  <img src="https://img.shields.io/github/followers/souradipdey166?style=for-the-badge&logo=github&theme=tokyonight" alt="GitHub Followers"/>
 
+  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+</p>
 
 ### 📦 Repositories & Stars
 
