@@ -122,19 +122,26 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
   </a>
 </p>
 
----
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165"
-       src="https://github-stats-extended.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-       alt="GitHub statistics" />
-
-  <img height="165"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-       alt="Most used programming languages" />
+  <i>Exploring my coding activity, repositories, and technical interests.</i>
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Profile Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Programming Languages" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=souradipdey166&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 
 ### 📦 Repositories & Stars
 
