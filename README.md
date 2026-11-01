@@ -124,23 +124,23 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 
 
 
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>GitHub activity, repository insights, and language distribution.</i>
+  <i>My developer profile at a glance.</i>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/souradipdey166?style=for-the-badge&logo=github&theme=tokyonight" alt="GitHub Followers"/>
-
-  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/souradipdey166?label=Followers&style=flat-square&color=8957E5&logo=github" alt="GitHub Followers" />
 </p>
+
 
 ### 📦 Repositories & Stars
 
