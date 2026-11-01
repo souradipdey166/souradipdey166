@@ -123,23 +123,22 @@ I'm a Data Science enthusiast focused on building practical solutions using Mach
 </p>
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h2 align="center">📊 GitHub Analytics & Developer Metrics</h2>
 
 <p align="center">
-  <i>Exploring my coding activity, repositories, and technical interests.</i>
+  <i>A snapshot of my GitHub presence, repository activity, and programming language distribution.</i>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Profile Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Programming Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souradipdey166&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Developer Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradipdey166&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Programming Language Distribution" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=souradipdey166&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=souradipdey166&label=PROFILE%20VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://img.shields.io/github/followers/souradipdey166?label=FOLLOWERS&style=for-the-badge&color=8957E5&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/souradipdey166?label=TOTAL%20STARS&style=for-the-badge&color=E3B341&logo=github" alt="Total GitHub Stars" />
 </p>
 
 
